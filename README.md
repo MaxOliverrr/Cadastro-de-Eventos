@@ -13,7 +13,8 @@
 # Prévia
 <!-- Add a demo for your project -->
 
-![Animação](https://user-images.githubusercontent.com/88558432/220762470-94477d92-29b2-4c72-88b0-c881d885cd8a.gif)
+![demo](https://user-images.githubusercontent.com/88558432/220763703-8c04dd15-803b-4237-8a00-c355892960b5.gif)
+
 
 ## 💻 Pré-requisitos
 
